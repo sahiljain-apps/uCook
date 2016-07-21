@@ -1,0 +1,43 @@
+PODS:
+  - Alamofire (3.4.1)
+  - AlamofireImage (2.4.0):
+    - Alamofire (~> 3.3)
+  - AlamofireNetworkActivityIndicator (1.0.1):
+    - Alamofire (~> 3.3)
+  - Bolts/Tasks (1.7.0)
+  - ConvenienceKit (0.4.0)
+  - DateTools (1.7.0)
+  - FatSecretKit (0.0.3)
+  - Parse (1.13.0):
+    - Bolts/Tasks (~> 1.6)
+  - ParseUI (1.2.0):
+    - Bolts/Tasks (~> 1.3)
+    - Parse (~> 1.9)
+  - SwiftyJSON (2.3.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.4)
+  - AlamofireImage
+  - AlamofireNetworkActivityIndicator
+  - ConvenienceKit
+  - DateTools
+  - FatSecretKit
+  - Parse
+  - ParseUI
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 01a82e2f6c0f860ade35534c8dd88be61bdef40c
+  AlamofireImage: 87408b652e0f5ae5fe364035f15aea8b9b24c77e
+  AlamofireNetworkActivityIndicator: 49a6e39afb947136f7b1872bae2d684957c26697
+  Bolts: a0058fa3b331c5a1e4402d534f2dae36dbff31e4
+  ConvenienceKit: ba1ad8797897dc0d011676e961a2f3e9b270c841
+  DateTools: 53288ee8b905fdc75897a1e6b5cc0144b14cba60
+  FatSecretKit: c43b8f4899f7e411a0b26a190a814a7b363e0b32
+  Parse: f51c24d2feb412e4b2d6cc73d37cb24e8d0089bc
+  ParseUI: af2eba584799da4a9fbdac0e178662d7438b502e
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+
+PODFILE CHECKSUM: 967c502859ae4eb2bef1eaf55973a319e0061020
+
+COCOAPODS: 1.0.1
